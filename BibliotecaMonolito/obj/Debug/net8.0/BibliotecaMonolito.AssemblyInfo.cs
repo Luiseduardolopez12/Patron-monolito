@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaMonolito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a61393865c51d9afb7d6ac9467989b827b4ce3c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc3ab8c7c6ee9c16786f279c5df463402e4bedf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaMonolito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaMonolito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
