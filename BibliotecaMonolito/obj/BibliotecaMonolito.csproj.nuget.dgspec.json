@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivism\\OneDrive\\Escritorio\\mi-api-http\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj": {}
+    "C:\\Users\\ivism\\OneDrive\\Escritorio\\Práctica Vanguardia Semana 2\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivism\\OneDrive\\Escritorio\\mi-api-http\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj": {
+    "C:\\Users\\ivism\\OneDrive\\Escritorio\\Práctica Vanguardia Semana 2\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivism\\OneDrive\\Escritorio\\mi-api-http\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj",
+        "projectUniqueName": "C:\\Users\\ivism\\OneDrive\\Escritorio\\Práctica Vanguardia Semana 2\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj",
         "projectName": "BibliotecaMonolito",
-        "projectPath": "C:\\Users\\ivism\\OneDrive\\Escritorio\\mi-api-http\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj",
+        "projectPath": "C:\\Users\\ivism\\OneDrive\\Escritorio\\Práctica Vanguardia Semana 2\\Patron-monolito\\BibliotecaMonolito\\BibliotecaMonolito.csproj",
         "packagesPath": "C:\\Users\\ivism\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivism\\OneDrive\\Escritorio\\mi-api-http\\Patron-monolito\\BibliotecaMonolito\\obj\\",
+        "outputPath": "C:\\Users\\ivism\\OneDrive\\Escritorio\\Práctica Vanguardia Semana 2\\Patron-monolito\\BibliotecaMonolito\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivism\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

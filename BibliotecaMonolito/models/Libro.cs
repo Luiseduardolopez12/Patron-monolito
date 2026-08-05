@@ -1,3 +1,5 @@
+using BibliotecaMonolito.Models;
+
 namespace bibliotecaMonolito.Models
 {
     public class Libro
